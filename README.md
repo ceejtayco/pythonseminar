@@ -1,0 +1,2 @@
+# pythonseminar
+Django python seminar
